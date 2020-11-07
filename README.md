@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Did you know that attitude determines altitude
+### ⚡ Fun fact: Air is a Fluid
 <!--
 **imthatperson/imthatperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
